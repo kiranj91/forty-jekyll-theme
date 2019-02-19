@@ -6,5 +6,5 @@ show_tile: false
 ---
 
 <div id="main">
-{% include tiles.html %}
+{% include bucketlists.html %}
 </div>

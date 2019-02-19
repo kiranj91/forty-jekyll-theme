@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scotland
-description: blautrum
+description: 'A spirit of its own!'
 image: assets/images/scotland.jpg
 nav-menu: false
 show_tile: true

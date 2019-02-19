@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spain
-description: blautrum
+description: '#spainindetail'
 image: assets/images/spain.jpg
 nav-menu: false
 show_tile: true

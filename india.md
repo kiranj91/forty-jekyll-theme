@@ -1,7 +1,7 @@
 ---
 layout: post
 title: India
-description: blautrum
+description: 'Incredible India!'
 image: assets/images/india.jpg
 nav-menu: false
 show_tile: true

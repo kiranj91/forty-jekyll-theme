@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Italy
-description: blautrum
+description: 'Made in Italy!'
 image: assets/images/verona.jpg
 nav-menu: false
 show_tile: true

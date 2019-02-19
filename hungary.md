@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hungary
-description: blautrum
+description: 'Think Hungary more than Expected!'
 image: assets/images/budapest.jpg
 nav-menu: false
 show_tile: true

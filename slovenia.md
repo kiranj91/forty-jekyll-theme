@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slovenia
-description: blautrum
+description: 'I feel sLOVEnia!'
 image: assets/images/slovenia.jpg
 nav-menu: false
 show_tile: true

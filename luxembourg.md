@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Luxembourg
-description: blautrum
+description: 'Live your unexpected Luxembourg!'
 image: assets/images/luxembourg.jpg
 nav-menu: false
 show_tile: true

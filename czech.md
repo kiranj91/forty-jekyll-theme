@@ -1,7 +1,7 @@
 ---
 title: Czech Republic
 layout: post
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Land of Stories!'
 image: assets/images/czech.jpg
 nav-menu: false
 show_tile: true

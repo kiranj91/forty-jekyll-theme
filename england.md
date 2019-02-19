@@ -1,7 +1,7 @@
 ---
 layout: post
 title: England
-description: blautrum
+description: 'Discover your England!'
 image: assets/images/england.jpg
 nav-menu: false
 show_tile: true

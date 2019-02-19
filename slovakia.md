@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slovakia
-description: blautrum
+description: 'Travel in Slovakia – Good idea!'
 image: assets/images/slovakia.jpg
 nav-menu: false
 show_tile: true

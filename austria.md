@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Austria
+description: 'Arrive and Revive!'
 nav-menu: false
 image: assets/images/austria.jpg
 show_tile: true

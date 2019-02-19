@@ -1,7 +1,7 @@
 ---
 layout: post
 title: France
-description: blautrum
+description: 'Rendez Vous en France!'
 image: assets/images/france.jpg
 nav-menu: false
 show_tile: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Netherlands
-description: blautrum
+description: 'The original Cool!'
 image: assets/images/netherlands.jpg
 nav-menu: false
 show_tile: true

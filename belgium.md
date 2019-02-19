@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Belgium
-description: Lorem ipsum dolor est
+description: 'The place to be!'
 image: assets/images/belgium.jpg
 nav-menu: false
 show_tile: true

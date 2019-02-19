@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Germany
-description: blautrum
+description: 'Simply Inspiring!'
 image: assets/images/germany.jpg
 nav-menu: false
 show_tile: true

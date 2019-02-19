@@ -1,5 +1,5 @@
 <section id="one" class="tiles">
-  {% for post in site.posts limit:site.tiles-count %}
+  {% for post in site.posts limit:site.bucketlist-count %}
   {% if site.tiles-source == 'posts' and post.show_bucketlist_tile == true %}
   <article>
     <span class="image">
@@ -12,7 +12,7 @@
   </article>
   {% endif %}
   {% endfor %}
-  {% for page in site.pages limit:site.tiles-count %}
+  {% for page in site.pages limit:site.bucketlist-count %}
   {% if site.tiles-source == 'pages' and page.show_bucketlist_tile == true %}
   <article>
     <span class="image">

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Eisriesenwelt - World's largest Ice Cave!
-description: 'Arrive and Revive!'
+title: To visit The Eisriesenwelt!
+description: 'World's largest Ice Cave!'
 nav-menu: false
 image: assets/images/eisriesenwelt.jpg
 show_bucketlist_tile: true

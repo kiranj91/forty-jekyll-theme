@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To watch a FC Bayern match in Allianz Arena!
-description: 'Arrive and Revive!'
+description: 'Mia San Mia'
 nav-menu: false
 image: assets/images/fcbayern.jpg
 show_bucketlist_tile: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: To attend Oktoberfest - World's largest beer festival!
-description: 'Arrive and Revive!'
+title: To attend Oktoberfest!
+description: 'World's largest beer festival!'
 nav-menu: false
 image: assets/images/oktoberfest.jpg
 show_bucketlist_tile: true

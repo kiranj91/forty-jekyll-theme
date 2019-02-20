@@ -15,8 +15,8 @@ author: Kiran Jayaramu
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 50
-bucketlist-count: 50
+tiles-count: 80
+bucketlist-count: 80
 
 # social settings
 500px_url:

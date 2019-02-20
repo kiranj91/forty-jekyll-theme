@@ -1,9 +1,9 @@
 ---
 layout: post
-title: To visit Stonehenge!
-description: 'A Prehistoric monument and one of the Wonders of the World!'
+title: To attend Oktoberfest!
+description: 'World's largest beer festival!'
 nav-menu: false
-image: assets/images/stonehenge.jpg
+image: assets/images/oktoberfest.jpg
 show_bucketlist_tile: true
 ---
 

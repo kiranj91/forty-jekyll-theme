@@ -14,9 +14,9 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>England</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>.</p>
 	</div>
 </section>
 
@@ -31,7 +31,7 @@ show_tile: true
 				<header class="major">
 					<h3>Chelsea vs Newcastle</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>.</p>
 				<ul class="actions">
 					<li><a href="belgium.html" class="button">Learn more</a></li>
 				</ul>
@@ -47,7 +47,7 @@ show_tile: true
 				<header class="major">
 					<h3>London</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>.</p>
 				<ul class="actions">
 					<li><a href="belgium.html" class="button">Learn more</a></li>
 				</ul>
@@ -63,7 +63,7 @@ show_tile: true
 				<header class="major">
 					<h3>Lords Cricket Ground</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>.</p>
 				<ul class="actions">
 					<li><a href="belgium.html" class="button">Learn more</a></li>
 				</ul>
@@ -79,7 +79,7 @@ show_tile: true
         <header class="major">
           <h3>Stamford Bridge</h3>
         </header>
-        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+        <p>.</p>
         <ul class="actions">
           <li><a href="belgium.html" class="button">Learn more</a></li>
         </ul>
@@ -95,7 +95,7 @@ show_tile: true
 				<header class="major">
 					<h3>Stonehenge</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>.</p>
 				<ul class="actions">
 					<li><a href="belgium.html" class="button">Learn more</a></li>
 				</ul>
@@ -111,7 +111,7 @@ show_tile: true
 				<header class="major">
 					<h3>Wembley</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>.</p>
 				<ul class="actions">
 					<li><a href="belgium.html" class="button">Learn more</a></li>
 				</ul>
@@ -126,7 +126,7 @@ show_tile: true
 		<header class="major">
 			<h2>England</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>.</p>
 		<ul class="actions">
 			<li><a href="belgium.html" class="button next">Get Started</a></li>
 		</ul>

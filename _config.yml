@@ -1,7 +1,7 @@
 # site settings
 title: That guy with the Bucket List
 # subtitle: by HTML5 UP
-email: yuvankiran91@gmail.com
+email: #yuvankiran91@gmail.com
 description: A blog of all the places I have visited
 baseurl: "/travel" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -20,12 +20,12 @@ bucketlist-count: 80
 
 # social settings
 500px_url:
-facebook_url: https://www.facebook.com/yuvankiran
-github_url: https://github.com/kiranj91
+facebook_url: #https://www.facebook.com/yuvankiran
+github_url: #https://github.com/kiranj91
 # gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+KiranJayaramu
-instagram_url: https://www.instagram.com/narik_j
-linkedin_url: https://www.linkedin.com/in/kiran-jayaram-68450370
+googleplus_url: #https://plus.google.com/u/0/+KiranJayaramu
+instagram_url: #https://www.instagram.com/narik_j
+linkedin_url: #https://www.linkedin.com/in/kiran-jayaram-68450370
 pinterest_url:
 slack_url:
 # twitter_url: https://twitter.com/andrewbanchich

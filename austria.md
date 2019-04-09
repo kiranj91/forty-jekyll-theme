@@ -23,7 +23,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="belgium.html" class="image">
+		<a href="austria1.html" class="image">
 			<img src="assets/images/adlerlounge.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -33,7 +33,7 @@ show_tile: true
 				</header>
 				<p>.</p>
 				<ul class="actions">
-					<li><a href="belgium.html" class="button">Learn more</a></li>
+					<li><a href="austria1.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

@@ -1,8 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 nav-menu: true
 show_tile: false
 ---
 
-About me!!!.
+<div id="main">
+  <div class="divAboutMe">
+      Hello all!, welcome to my Travel Blog! I am Kiran. I was born in Mysore, Karnataka, India. I came to Germany for Masters! and since childhood I always had my bucketlist of things to do
+      before I die!
+  </div>
+</div>

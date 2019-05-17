@@ -199,18 +199,4 @@ show_tile: true
 		</div>
 	</section>
 </section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>.</p>
-		<ul class="actions">
-			<li><a href="belgium.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
-
 </div>

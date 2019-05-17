@@ -36,7 +36,7 @@ show_tile: true
 					<li><a href="switzerland.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
-		</div> 
+		</div>
 	</section>
 	<section>
 		<a href="switzerland.html" class="image">
@@ -167,18 +167,4 @@ show_tile: true
 	</div>
 </section>
 </section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Switzerland</h2>
-		</header>
-		<p>.</p>
-		<ul class="actions">
-			<li><a href="switzerland.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
-
 </div>

@@ -14,7 +14,7 @@ show_tile: false
   		</header>
   	</div>
   </section>
-  <section id="two">
+  <section id="two" class="spotlights">
     <section>
       <div class="content">
         <div class="inner">

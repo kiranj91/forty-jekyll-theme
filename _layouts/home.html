@@ -8,6 +8,7 @@
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
+<script src="{{ "assets/js/home.js" | absolute_url }}"></script>
 
 {% include head.html %}
 
@@ -63,13 +64,12 @@
 
 <script>
   $( document).ready( function() {
-    $( "btnMenu").css({ "color" : "black"});
     var countriesVisited = [ 'AT', 'BE', 'CZ', 'FR', 'DE', 'HU', 'IT', 'LI', 'LU', 'NL', 'SK', 'SI', 'GB', 'ES', 'IN'];
     console.log( "doc is ready...");
     $( ".back-to-top").hide();
 
     // Funktion für das Scroll-Verhalten
-  	$(function () {
+  	$( function () {
   		$( window).scroll(function () {
   			if ( $(this).scrollTop() > 100) { // Wenn 100 Pixel gescrolled wurde
   				$( '.back-to-top').fadeIn();
@@ -80,7 +80,6 @@
 
   		$( '.back-to-top').click(function ( event) { // Klick auf den Button
         event.preventDefault();
-        console.log( "clicked..");
   			$( 'body,html').animate({
   				scrollTop: 0
   			}, 800);
@@ -88,7 +87,7 @@
   		});
   	});
 
-    var map = AmCharts.makeChart("mapdiv",{
+    var map = AmCharts.makeChart( "mapdiv",{
       type: "map",
       theme: "dark",
       projection: "mercator",

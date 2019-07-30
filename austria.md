@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Austria
+title: Austriaaa
 description: 'Arrive and Revive!'
 nav-menu: false
 image: assets/images/austria.jpg

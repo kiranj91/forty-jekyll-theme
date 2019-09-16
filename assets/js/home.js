@@ -96,6 +96,14 @@ $( document).ready( function() {
       {
         "id": "IN",
         "showAsSelected": true
+      },
+      {
+        "id": "NO",
+        "showAsSelected": true
+      },
+      {
+        "id": "IS",
+        "showAsSelected": true
       }
     ]
     },

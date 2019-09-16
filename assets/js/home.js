@@ -1,5 +1,5 @@
 $( document).ready( function() {
-  var countriesVisited = [ 'AT', 'BE', 'CZ', 'FR', 'DE', 'HU', 'IT', 'LI', 'LU', 'NL', 'SK', 'SI', 'GB', 'ES', 'IN'];
+  var countriesVisited = [ 'AT', 'BE', 'CZ', 'FR', 'DE', 'HU', 'IT', 'LI', 'LU', 'NL', 'SK', 'SI', 'GB', 'ES', 'IN', 'IS'];
   console.log( "doc is ready...");
   $( ".back-to-top").hide();
 

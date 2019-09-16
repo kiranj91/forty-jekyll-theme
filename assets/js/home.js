@@ -1,5 +1,5 @@
 $( document).ready( function() {
-  var countriesVisited = [ 'AT', 'BE', 'CZ', 'FR', 'DE', 'HU', 'IT', 'LI', 'LU', 'NL', 'SK', 'SI', 'GB', 'ES', 'IN', 'IS'];
+  var countriesVisited = [ 'AT', 'BE', 'CZ', 'CH', 'FR', 'DE', 'HU', 'IT', 'LI', 'LU', 'NL', 'SK', 'SI', 'GB', 'ES', 'IN', 'IS', 'NO'];
   console.log( "doc is ready...");
   $( ".back-to-top").hide();
 
@@ -103,6 +103,10 @@ $( document).ready( function() {
       },
       {
         "id": "IS",
+        "showAsSelected": true
+      },
+      {
+        "id": "CH",
         "showAsSelected": true
       }
     ]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Norway
-description: 'Think Hungary more than Expected!'
+description: 'Powered by nature!'
 image: assets/images/norway.jpg
 nav-menu: false
 show_tile: true

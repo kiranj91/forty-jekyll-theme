@@ -2,7 +2,7 @@
 layout: post
 title: Norway
 description: 'Powered by nature!'
-image: assets/images/norway.jpg
+image: assets/images/norway.JPG
 nav-menu: false
 show_tile: true
 ---
@@ -24,7 +24,7 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="norway.html" class="image">
-			<img src="assets/images/norway.jpg" alt="" data-position="center center"/>
+			<img src="assets/images/norway.JPG" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">

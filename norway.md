@@ -29,7 +29,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Norway</h3>
+					<h3>Oslo</h3>
 				</header>
 				<p>.</p>
 				<ul class="actions">

@@ -2,7 +2,7 @@
 layout: post
 title: Iceland
 description: 'The land of Ice and Fire!'
-image: assets/images/iceland.jpg
+image: assets/images/skogafoss.JPG
 nav-menu: false
 show_tile: true
 ---
@@ -265,7 +265,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="iceland.html" class="image">
-			<img src="assets/images/wayanad.jpg" alt="" data-position="top center" />
+			<img src="assets/images/skogafoss.JPG" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

@@ -10,7 +10,7 @@ show_tile: false
   	<div class="inner">
   		<header class="major">
   			<h2>Shower Thoughts</h2>
-        <b>All the musings I had standing under the shower( mostly)</b>
+        <b>All the musings I get standing under the shower( mostly)</b>
   		</header>
   	</div>
   </section>

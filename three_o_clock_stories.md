@@ -10,7 +10,7 @@ show_tile: false
   	<div class="inner">
   		<header class="major">
   			<h2>Three O Clock Stories</h2>
-        <b>Let me tell you some spooky stories which could make your night longer and eerie!</b>
+        <b>Some spooky stories which could make your night longer and eerie!</b>
   		</header>
   	</div>
   </section>

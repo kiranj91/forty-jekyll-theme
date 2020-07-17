@@ -41,7 +41,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="iceland.html" class="image">
-			<img src="assets/images/iceland.jpg" alt="" data-position="top center" />
+			<img src="assets/images/dettifoss1.JPG" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -57,7 +57,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="iceland.html" class="image">
-			<img src="assets/images/iceland.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/diamond-beach1.JPG" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -73,7 +73,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="iceland.html" class="image">
-			<img src="assets/images/kodagu.jpg" alt="" data-position="top center" />
+			<img src="assets/images/dyrholaey1" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -105,7 +105,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="iceland.html" class="image">
-			<img src="assets/images/mysuru.jpg" alt="" data-position="top center" />
+			<img src="assets/images/hvitserkur1.JPG" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -121,7 +121,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="iceland.html" class="image">
-			<img src="assets/images/mysuru.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/kirkjufell1.JPG" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -137,12 +137,12 @@ show_tile: true
 	</section>
 	<section>
 		<a href="iceland.html" class="image">
-			<img src="assets/images/mysuru.jpg" alt="" data-position="top center" />
+			<img src="assets/images/krafla1.JPG" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Karfla</h3>
+					<h3>Krafla</h3>
 				</header>
 				<p>.</p>
 				<ul class="actions">
@@ -185,7 +185,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="iceland.html" class="image">
-			<img src="assets/images/topstation.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/reykjanes-light-house1.JPG" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
